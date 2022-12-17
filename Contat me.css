@@ -1,0 +1,33 @@
+body{
+    background-image: url(boo.gif);
+    background-size: cover;
+}
+.con{
+    text-align: center;
+    margin: auto;
+    margin-top: 5%;
+    border-radius: 20px;
+    color: rgb(218, 200, 235);
+    width: 60%;
+    margin-bottom: 10%;
+    background-color: black;
+}
+.con{
+    box-shadow: 0px 0px 25px orange;
+    font-family: sans-serif;
+    font-size: 20px;
+}
+button{
+    color: #fff;
+    font-size: 16px;
+    transition-duration: 0.4s;
+    padding: 10px;
+    font-size: 18px;
+    display: inline-block;
+    background-color: rgb(8, 8, 8);
+    box-shadow: 0px 0px 25px #f88f05;
+    border-color: #f88f05;
+    border-radius: 10px;
+    margin-bottom: 30px; 
+}
+

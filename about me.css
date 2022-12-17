@@ -1,0 +1,109 @@
+
+body{
+    background-image: url(boo.gif);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.about{
+    margin: auto;
+    margin-top: 5%;
+    border-radius: 20px;
+    color: rgb(218, 200, 235);
+    width: 60%;
+    margin-bottom: 10%;
+    background: rgba(238, 228, 228, 0.2);
+}
+.about{
+    border: solid;
+    border: 3px solid rgb(219, 231, 231);
+    box-shadow: 0px 0px 10px #fff;
+}
+.intro{
+    border-radius: 10px;
+    text-align: center;
+    margin: auto;
+    color: #fff;
+    border: solid;
+    background-color: black;
+    border: 2px solid #333;
+    border-color: orange;
+    box-shadow: 0px 0px 25px red;
+    width: 60%;
+}
+
+p{
+    font-size: 150;
+}
+
+h1{
+    color:pink;
+    text-align: center;
+}
+table, th{
+    color: #fff;
+}
+td{
+    color: orange;
+    text-align: center;
+}
+
+li{
+    text-align: center;
+    color: orange;
+  
+}
+button {
+    color: #fff;
+    font-size: 16px;
+    transition-duration: 0.4s;
+    padding: 10px;
+    font-size: 18px;
+    display: inline-block;
+    background-color: rgb(8, 8, 8);
+    box-shadow: 0px 0px 25px #f88f05;
+    border-color: #f88f05;
+    border-radius: 10px;
+    margin-bottom: 30px;    
+}
+
+.button:hover{
+    color: #fff;
+    font-size: 16px;
+    padding: 10px 22px;
+    transition-duration: 0.4s;
+}
+
+.form{ 
+    text-align: center;
+    margin: auto;
+    margin-top: 5%;
+    border-radius: 20px;
+    color: rgb(218, 200, 235);
+    width: 60%;
+    margin-bottom: 10%;
+  
+}
+h3{
+   
+    border-radius: 30px;
+    background-color: black;
+    color: #f88f05;
+    width: 30%;
+}
+
+
+input{
+    text-shadow: orange;
+    color: rgb(211, 248, 3);   
+    border-radius: 20px;
+    background: rgba(238, 228, 228, 0.2);
+    padding: 5px;
+    width: 20%;
+}
+.sub{ color: #fff;}
+
+textarea{
+    border-radius: 10px;
+    background: rgba(238, 228, 228, 0.2);
+    padding-right: 10%;
+}
